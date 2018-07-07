@@ -8,3 +8,6 @@
   #### tesseract-ocr installation (Ubuntu)
   1. `sudo apt install tesseract-ocr`
   2. `pip3 install pytesseract`
+* Pillow
+  #### Pillow installation (Ubuntu)
+  1. `pip3 install Pillow`
